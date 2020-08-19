@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 <p>
   <br>
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=adambajguz&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true"/>
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=adambajguz&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true"/>
 </p>
