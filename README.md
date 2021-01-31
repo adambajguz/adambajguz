@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Typin](https://github.com/adambajguz/Typin);
+- 👨🏽‍💻 I’m currently working on [Typin](https://github.com/adambajguz/Typin)
 
-- 👯 I’m looking to collaborate on [Typin](https://github.com/adambajguz/Typin) 🤝;
+- 👯 I’m looking to collaborate on [Typin](https://github.com/adambajguz/Typin) 🤝
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-bajguz/)](https://www.linkedin.com/in/adam-bajguz/)
 
