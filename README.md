@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Typin](https://github.com/adambajguz/Typin) and somethig special ;)
+- 👨🏽‍💻 I’m currently working on [Typin](https://github.com/adambajguz/Typin) and something special ;)
 
 - 👯 I’m looking to collaborate on [Typin](https://github.com/adambajguz/Typin) 🤝
 
