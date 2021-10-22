@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
 
 - 👨🏽‍💻 I’m currently working on [Typin](https://github.com/adambajguz/Typin) and [PackSite](https://github.com/PackSite) ;)
 
