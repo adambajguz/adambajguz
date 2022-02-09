@@ -7,7 +7,7 @@
     <br><br>
     I'm interested in web development, DDD, Blazor, Microsoft Azure solutions, statistics, and DIY electronics.
     <br><br>
-    I hold a masters and engineering degrees in Computer Science and Sitecore® Experience Solution 9 Developer Certification.
+    I hold masters and engineering degrees in Computer Science and Sitecore® Experience Solution 9 Developer Certification.
   </samp>
 </p>
 
