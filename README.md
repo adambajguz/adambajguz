@@ -6,8 +6,6 @@
     <b>I work as a .NET Web :globe_with_meridians: Developer!</b>
     <br><br>
     I'm interested in web development, DDD, Blazor, Microsoft Azure solutions, statistics, and DIY electronics.
-    <br><br>
-    I hold masters and engineering degrees in Computer Science and Sitecore® Experience Solution 9 Developer Certification.
   </samp>
 </p>
 
